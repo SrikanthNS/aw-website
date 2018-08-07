@@ -74,6 +74,10 @@ header nav.aw-nav-fixed {
   background: rgb(0, 0, 0, 0.5);
 }
 
+.aw-nav-fixed {
+  background: rgb(0, 0, 0, 0.5);
+}
+
 header nav ul.aw-navigation {
   display: flex;
   list-style-type: none;
