@@ -61,9 +61,12 @@ header {
 header nav {
   position: fixed;
   width: 100%;
-  padding: 10px 0;
-  background: rgb(0, 0, 0, 0.5);
+  padding: 10px 0;  
   z-index: 999;
+}
+
+.aw-nav-fixed {
+  background: rgb(0, 0, 0, 0.5);
 }
 
 header nav ul.aw-navigation {
